@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jasirhuzain/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/jasirhuzain/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jasirhuzain/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jasirhuzain/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/jasirhuzain/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
