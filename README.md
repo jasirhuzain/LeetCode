@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/jasirhuzain/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jasirhuzain/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jasirhuzain/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
