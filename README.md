@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasirhuzain/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jasirhuzain/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jasirhuzain/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jasirhuzain/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jasirhuzain/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jasirhuzain/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jasirhuzain/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jasirhuzain/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -105,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jasirhuzain/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
