@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jasirhuzain/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jasirhuzain/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jasirhuzain/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/jasirhuzain/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
