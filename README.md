@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jasirhuzain/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jasirhuzain/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jasirhuzain/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jasirhuzain/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jasirhuzain/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
