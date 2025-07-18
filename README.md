@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jasirhuzain/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/jasirhuzain/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3221-find-the-peaks](https://github.com/jasirhuzain/LeetCode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jasirhuzain/LeetCode/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/jasirhuzain/LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
