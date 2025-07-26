@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasirhuzain/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jasirhuzain/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jasirhuzain/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jasirhuzain/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jasirhuzain/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jasirhuzain/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jasirhuzain/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jasirhuzain/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jasirhuzain/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jasirhuzain/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jasirhuzain/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jasirhuzain/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jasirhuzain/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/jasirhuzain/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
