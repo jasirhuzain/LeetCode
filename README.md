@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jasirhuzain/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jasirhuzain/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/jasirhuzain/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasirhuzain/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jasirhuzain/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jasirhuzain/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jasirhuzain/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
