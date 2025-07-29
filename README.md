@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jasirhuzain/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/jasirhuzain/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jasirhuzain/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/jasirhuzain/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/jasirhuzain/LeetCode/tree/master/0861-flipping-an-image) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jasirhuzain/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/jasirhuzain/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
