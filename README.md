@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/jasirhuzain/LeetCode/tree/master/0861-flipping-an-image) |
 | [1386-shift-2d-grid](https://github.com/jasirhuzain/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasirhuzain/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jasirhuzain/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jasirhuzain/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jasirhuzain/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jasirhuzain/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasirhuzain/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jasirhuzain/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/jasirhuzain/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/jasirhuzain/LeetCode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jasirhuzain/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasirhuzain/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jasirhuzain/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/jasirhuzain/LeetCode/tree/master/0861-flipping-an-image) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jasirhuzain/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jasirhuzain/LeetCode/tree/master/0414-third-maximum-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/jasirhuzain/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting Sort
