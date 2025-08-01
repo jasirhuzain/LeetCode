@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/jasirhuzain/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasirhuzain/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasirhuzain/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3221-find-the-peaks](https://github.com/jasirhuzain/LeetCode/tree/master/3221-find-the-peaks) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasirhuzain/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/jasirhuzain/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasirhuzain/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jasirhuzain/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting Sort
 |  |
 | ------- |
