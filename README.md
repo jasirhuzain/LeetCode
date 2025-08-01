@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/jasirhuzain/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasirhuzain/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasirhuzain/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3221-find-the-peaks](https://github.com/jasirhuzain/LeetCode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/jasirhuzain/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasirhuzain/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/jasirhuzain/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/jasirhuzain/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jasirhuzain/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasirhuzain/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
