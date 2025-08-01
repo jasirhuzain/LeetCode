@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jasirhuzain/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasirhuzain/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/jasirhuzain/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jasirhuzain/LeetCode/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/jasirhuzain/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
