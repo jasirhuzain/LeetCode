@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jasirhuzain/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jasirhuzain/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jasirhuzain/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/jasirhuzain/LeetCode/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/jasirhuzain/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/jasirhuzain/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/jasirhuzain/LeetCode/tree/master/0861-flipping-an-image) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jasirhuzain/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jasirhuzain/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/jasirhuzain/LeetCode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jasirhuzain/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/jasirhuzain/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
