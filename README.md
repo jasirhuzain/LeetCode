@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jasirhuzain/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jasirhuzain/LeetCode/tree/master/0020-valid-parentheses) |
 | [0742-to-lower-case](https://github.com/jasirhuzain/LeetCode/tree/master/0742-to-lower-case) |
+| [1205-defanging-an-ip-address](https://github.com/jasirhuzain/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1899-count-items-matching-a-rule](https://github.com/jasirhuzain/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasirhuzain/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3396-valid-word](https://github.com/jasirhuzain/LeetCode/tree/master/3396-valid-word) |
