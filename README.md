@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jasirhuzain/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/jasirhuzain/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jasirhuzain/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jasirhuzain/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jasirhuzain/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jasirhuzain/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jasirhuzain/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/jasirhuzain/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/jasirhuzain/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasirhuzain/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jasirhuzain/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3396-valid-word](https://github.com/jasirhuzain/LeetCode/tree/master/3396-valid-word) |
 ## Trie
 |  |
