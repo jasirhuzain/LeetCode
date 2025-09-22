@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jasirhuzain/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jasirhuzain/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/jasirhuzain/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasirhuzain/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jasirhuzain/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jasirhuzain/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasirhuzain/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/jasirhuzain/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jasirhuzain/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/jasirhuzain/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jasirhuzain/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/jasirhuzain/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
