@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasirhuzain/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/jasirhuzain/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/jasirhuzain/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/jasirhuzain/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Counting
 |  |
 | ------- |
