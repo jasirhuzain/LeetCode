@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jasirhuzain/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jasirhuzain/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/jasirhuzain/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/jasirhuzain/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/jasirhuzain/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/jasirhuzain/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -288,9 +289,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jasirhuzain/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/jasirhuzain/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jasirhuzain/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/jasirhuzain/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
