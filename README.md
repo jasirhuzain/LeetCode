@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jasirhuzain/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jasirhuzain/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jasirhuzain/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/jasirhuzain/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/jasirhuzain/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/jasirhuzain/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/jasirhuzain/LeetCode/tree/master/0507-perfect-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jasirhuzain/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/jasirhuzain/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jasirhuzain/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/jasirhuzain/LeetCode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/jasirhuzain/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/jasirhuzain/LeetCode/tree/master/1086-divisor-game) |
 ## Divide and Conquer
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jasirhuzain/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/jasirhuzain/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
